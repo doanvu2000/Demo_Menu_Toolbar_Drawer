@@ -1,0 +1,2 @@
+rootProject.name = "Demo_Menu_Toolbar_Drawer"
+include ':app'
